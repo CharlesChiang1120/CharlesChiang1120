@@ -17,7 +17,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CharlesChiang1120&show_icons=true&theme=onedark)
+# 🎯 Badges
+
+<a href="http://www.github.com/CharlesChiang1120"><img src="https://github-readme-stats.vercel.app/api?username=CharlesChiang1120&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="CharlesChiang1120's GitHub stats" /></a>
+
+<a href="http://www.github.com/CharlesChiang1120"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CharlesChiang1120&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 # 💻 Tech Stack
 ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
